@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureQueryWithConcat", "FutureQueryWithConcat\FutureQueryWithConcat.csproj", "{333D19F4-B0B0-401F-81A4-A85DAD9454D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureQueryWithConcat.Migrate", "FutureQueryWithConcat.Migrate\FutureQueryWithConcat.Migrate.csproj", "{FB8E79AA-D8F0-4B54-94C9-AA411D1CF96A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{333D19F4-B0B0-401F-81A4-A85DAD9454D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333D19F4-B0B0-401F-81A4-A85DAD9454D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333D19F4-B0B0-401F-81A4-A85DAD9454D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333D19F4-B0B0-401F-81A4-A85DAD9454D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8E79AA-D8F0-4B54-94C9-AA411D1CF96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8E79AA-D8F0-4B54-94C9-AA411D1CF96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8E79AA-D8F0-4B54-94C9-AA411D1CF96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8E79AA-D8F0-4B54-94C9-AA411D1CF96A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C53AEAD2-DF70-45D3-9C4E-922D5B3AD6A0}
+	EndGlobalSection
+EndGlobal
